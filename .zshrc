@@ -141,4 +141,3 @@ export HISTSIZE=50000000
 export SAVEHIST=50000000
 setopt INC_APPEND_HISTORY
 setopt EXTENDED_HISTORY 
-alias history='history -i'

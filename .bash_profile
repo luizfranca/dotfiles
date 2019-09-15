@@ -1,6 +1,7 @@
 source ~/.prompt
 #source ~/.git-completion.bash
 source ~/.profile
+source ~/.aliases
 
 HISTSIZE=100000000
 HISTFILESIZE=100000000
